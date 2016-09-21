@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: deStyle v0.9\n"
+"PO-Revision-Date: 2009-05-26 13:07+0200\n"
+"Last-Translator: admin <simon@themeshift.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: 404.php:7
+msgid "Error 404, no posts found!"
+msgstr "Fehler 404, keine Einträge gefunden!"
+
+#: archive.php:14
+#: archive.php:17
+#: archive.php:20
+#: archive.php:23
+msgid "Archive"
+msgstr "Archiv"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "0 comments"
+msgstr "0 Kommentare"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: archive.php:48
+#: author.php:32
+#: image.php:13
+#: index.php:28
+#: search.php:22
+#: single.php:19
+msgid "in"
+msgstr "in"
+
+#: archive.php:50
+#: author.php:34
+#: index.php:30
+#: search.php:24
+msgid "Read more..."
+msgstr "Weiterlesen..."
+
+#: archive.php:66
+#: author.php:50
+#: index.php:46
+#: search.php:36
+msgid "&laquo; Previous entries"
+msgstr "&laquo; Vorherige Einträge"
+
+#: archive.php:69
+#: author.php:53
+#: index.php:49
+#: search.php:39
+msgid "Next entries &raquo;"
+msgstr "Nächste Einträge &raquo;"
+
+#: archive.php:81
+#: author.php:65
+#: index.php:61
+#: page-full.php:29
+#: single.php:51
+msgid "Not found!"
+msgstr "Nicht gefunden!"
+
+#: archive.php:82
+#: author.php:66
+#: image.php:48
+#: index.php:62
+#: page-full.php:30
+#: page.php:30
+#: search.php:52
+#: single.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, keine passenden Beiträge gefunden."
+
+#: archives.php:7
+msgid "Latest Posts"
+msgstr "Letzte Einträge"
+
+#: archives.php:25
+msgid "Archive by Month"
+msgstr "Monatsarchiv"
+
+#: archives.php:35
+msgid "Categories"
+msgstr "Kategorien"
+
+#: comments.php:9
+msgid "Enter your password to view comments."
+msgstr "Bitte Passwort eingeben, um Kommentare zu sehen."
+
+#: comments.php:29
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: comments.php:29
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: comments.php:29
+msgid "Leave yours"
+msgstr "Deine Meinung"
+
+#: comments.php:43
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:66
+msgid "Leave a Reply"
+msgstr "Kommentar schreiben"
+
+#: comments.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Kommentar schreiben zu %s"
+
+#: comments.php:70
+msgid "Users must be registered and logged in to comment."
+msgstr "Benutzer müssen angemeldet sein um zu kommentieren."
+
+#: comments.php:71
+#, php-format
+msgid "<a href=\"%s\">Log in to Reply</a>"
+msgstr "<a href=\"%s\">Einloggen</a>"
+
+#: comments.php:76
+msgid "Cancel reply"
+msgstr "Abbrechen"
+
+#: comments.php:84
+#, php-format
+msgid "Logged in as %s"
+msgstr "Eingeloggt als %s"
+
+#: comments.php:84
+#: comments.php:84
+msgid "Log out"
+msgstr "Ausloggen"
+
+#: comments.php:89
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:89
+#: comments.php:94
+msgid "(required)"
+msgstr "(benötigt)"
+
+#: comments.php:94
+msgid "Mail (will not be published)"
+msgstr "E-Mail (wird nicht veröffentlicht)"
+
+#: comments.php:99
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:106
+msgid "Message"
+msgstr "Nachricht"
+
+#: comments.php:110
+msgid "Submit comment"
+msgstr "Kommentar senden"
+
+#: footer.php:10
+msgid "All rights reserved"
+msgstr "Alle Rechte vorbehalten"
+
+#: functions.php:64
+#: sidebar.php:25
+msgid "Search this Site"
+msgstr "Suche"
+
+#: functions.php:75
+msgid "Title"
+msgstr "Titel"
+
+#: functions.php:83
+msgid "Search Widget for deStyle"
+msgstr "Such-Widget für deStyle"
+
+#: functions.php:84
+#: functions.php:85
+msgid "Search"
+msgstr "Suche"
+
+#: functions.php:97
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=\"fn\">%s</span>"
+
+#: functions.php:97
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar muss noch freigeschaltet werden."
+
+#: header.php:36
+msgid "Subscribe RSS Feed"
+msgstr "RSS-Feed abonnieren"
+
+#: header.php:46
+msgid "Home"
+msgstr "Startseite"
+
+#: inc/sidebar-flickr.php:17
+msgid "My <strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong> Fotos"
+msgstr "Meine <strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong>-Fotos"
+
+#: inc/sidebar-twitter.php:17
+msgid "My Latest Tweets"
+msgstr "Meine letzten Tweets"
+
+#: inc/sidebar-twitter.php:26
+msgid "More updates on"
+msgstr "Mehr Updates auf"
+
+#: lib/admin/meta-box.php:12
+#: lib/admin/meta-box.php:47
+msgid "deStyle - Article Image"
+msgstr "deStyle - Artikelbild"
+
+#: lib/admin/meta-box.php:13
+msgid "Please enter URL of an article image (180x180px)."
+msgstr "Bitte URL eines Artikelbildes (180x180px) eingeben."
+
+#: lib/admin/theme-admin.php:44
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: lib/admin/theme-admin.php:45
+msgid "Settings reset"
+msgstr "Einstellungen zurückgesetzt"
+
+#: lib/admin/theme-admin.php:50
+msgid "Options"
+msgstr "Optionen"
+
+#: lib/admin/theme-admin.php:50
+msgid "Any problems? Please visit the ThemeShift.com <a href=\"http://themeshift.com/support\" target=\"_blank\">support forums</a>."
+msgstr "Probleme? Dann besuchen Sie bitte das ThemeShift.com <a href=\"http://themeshift.com/support\" target=\"_blank\">Support-Forum</a>."
+
+#: lib/admin/theme-admin.php:131
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: lib/admin/theme-admin.php:157
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: lib/admin/theme-options.php:15
+msgid "General"
+msgstr "Allgemeines"
+
+#: lib/admin/theme-options.php:18
+msgid "Page Menu"
+msgstr "Seitenmenü"
+
+#: lib/admin/theme-options.php:19
+msgid "Please enter IDs of pages that you want to <strong>exclude</strong> form the page menu (e.g. 5,28,119)."
+msgstr "Bitte IDs von Seiten eingeben, die <strong>nicht</strong> im Seitenmenu erscheinen sollen (z. B. 5,28,119)."
+
+#: lib/admin/theme-options.php:24
+msgid "Category Menu"
+msgstr "Kategoriemenü"
+
+#: lib/admin/theme-options.php:25
+msgid "Please enter IDs of categories that you want to <strong>exclude</strong> form the category menu (e.g. 2,13,45)."
+msgstr "Bitte IDs von Kategorien eingeben, die <strong>nicht</strong> im Kategoriemenü erscheinen sollen (z. B. 2,13,45)."
+
+#: lib/admin/theme-options.php:30
+msgid "Author Info"
+msgstr "Autorinformation"
+
+#: lib/admin/theme-options.php:31
+msgid "Hide author information after each post?"
+msgstr "Autorinformation (unter Posts) nicht anzeigen?"
+
+#: lib/admin/theme-options.php:36
+msgid "Sticky Posts"
+msgstr "Sticky Posts"
+
+#: lib/admin/theme-options.php:37
+msgid "Hide litte badge on sticky post images?"
+msgstr "Kleine Plakette auf Bildern von Sticky Posts nicht anzeigen?"
+
+#: comments.php:29
+#: lib/admin/theme-options.php:42
+msgid "Comments"
+msgstr "Kommentare"
+
+#: lib/admin/theme-options.php:43
+msgid "Hide comments template on pages?"
+msgstr "Kommentare auf Seiten nicht anzeigen?"
+
+#: lib/admin/theme-options.php:51
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: lib/admin/theme-options.php:55
+msgid "If you enter your Twitter username, your latest 6 tweets will be displayed."
+msgstr "Wenn Sie Ihren Twitter-Namen eingeben, werden die letzten 6 Tweets angezeigt."
+
+#: lib/admin/theme-options.php:60
+msgid "<strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong> Fotos"
+msgstr "<strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong>-Fotos"
+
+#: lib/admin/theme-options.php:61
+msgid "If you enter your Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>) a badge of 9 fotos will be displayed."
+msgstr "Wenn Sie Ihre Flickr-ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>) eingeben, werden Ihre 9 letzten Fotos angezeigt."
+
+#: lib/admin/theme-options.php:69
+msgid "Sidebar Ads"
+msgstr "Sidebar-Ads"
+
+#: lib/admin/theme-options.php:72
+msgid "Hide Ads?"
+msgstr "Ads nicht anzeigen?"
+
+#: lib/admin/theme-options.php:73
+msgid "Check the box to hide the follwing ads from the sidebar."
+msgstr "Setzen Sie den Haken, wenn folgende Ads in der Sidebar nicht angezeigt werden sollen."
+
+#: lib/admin/theme-options.php:78
+#: lib/admin/theme-options.php:96
+#: lib/admin/theme-options.php:114
+#: lib/admin/theme-options.php:132
+#: lib/admin/theme-options.php:150
+#: lib/admin/theme-options.php:168
+msgid "Image"
+msgstr "Banner"
+
+#: lib/admin/theme-options.php:79
+#: lib/admin/theme-options.php:97
+#: lib/admin/theme-options.php:115
+#: lib/admin/theme-options.php:133
+#: lib/admin/theme-options.php:151
+#: lib/admin/theme-options.php:169
+msgid "Please enter image url of a square button (125x125px)."
+msgstr "Bitte geben Sie die URL eines Square-Buttons (125x125px) ein."
+
+#: lib/admin/theme-options.php:84
+#: lib/admin/theme-options.php:102
+#: lib/admin/theme-options.php:120
+#: lib/admin/theme-options.php:138
+#: lib/admin/theme-options.php:156
+#: lib/admin/theme-options.php:174
+msgid "Link"
+msgstr "Link"
+
+#: lib/admin/theme-options.php:85
+#: lib/admin/theme-options.php:103
+#: lib/admin/theme-options.php:121
+#: lib/admin/theme-options.php:139
+#: lib/admin/theme-options.php:157
+#: lib/admin/theme-options.php:175
+msgid "Please enter link url of this ad."
+msgstr "Bitte geben Sie den Banner-Link ein."
+
+
+#: lib/admin/theme-options.php:91
+#: lib/admin/theme-options.php:109
+#: lib/admin/theme-options.php:127
+#: lib/admin/theme-options.php:145
+#: lib/admin/theme-options.php:163
+#: lib/admin/theme-options.php:181
+msgid "Check the box to remove nofollow of this ad."
+msgstr "Setzen Sie den Haken, um das 'Nofollow' dieses Banners zu entfernen."
+
+
+
+
+
+
+#: page-archives.php:20
+#: page-authors.php:19
+#: page-bookmarks.php:20
+#: page-full.php:21
+#: page.php:19
+msgid "Edit Page"
+msgstr "Seite bearbeiten"
+
+#: search.php:14
+msgid "entries found for"
+msgstr "Einträge gefunden für"
+
+#: searchform.php:3
+msgid "Enter keyword..."
+msgstr "Stichwort eingeben..."
+
+#: searchform.php:4
+msgid "Ok"
+msgstr "Ok"
+
+#: sidebar.php:9
+msgid "Recent Articles"
+msgstr "Neueste Artikel"
+
+#: single.php:25
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: single.php:27
+msgid "Edit Post"
+msgstr "Post bearbeiten"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "Comments off"
+msgstr "Kommentare abgeschaltet"
+
+#~ msgid "Ad #1 - Nofollow"
+#~ msgstr "Ad #1 - Nofollow"
+#~ msgid "Ad #2 - Nofollow"
+#~ msgstr "Ad #2 - Nofollow"
+#~ msgid "Ad #3 - Nofollow"
+#~ msgstr "Ad #3 - Nofollow"
+#~ msgid "Ad #4 - Nofollow"
+#~ msgstr "Ad #4 - Nofollow"
+#~ msgid "Ad #5 - Nofollow"
+#~ msgstr "Ad #5 - Nofollow"
+#~ msgid "Ad #6 - Nofollow"
+#~ msgstr "Ad #6 - Nofollow"

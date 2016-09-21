@@ -1,0 +1,657 @@
+flash4.swf Movie Report
+------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          26023          26023    Scene 1 (AS 2.0 Classes Export Frame)
+      2              4          26027    
+      3              1          26028    
+      4              1          26029    
+      5              7          26036    
+      6          49939          75975    
+      7              7          75982    
+      8              7          75989    
+      9              7          75996    
+     10              7          76003    
+     11              7          76010    
+     12              7          76017    
+     13              7          76024    
+     14              7          76031    
+     15              7          76038    
+     16              7          76045    
+     17           3493          79538    
+     18             10          79548    
+     19             10          79558    
+     20             10          79568    
+     21             10          79578    
+     22             10          79588    
+     23             10          79598    
+     24           1404          81002    
+     25             22          81024    
+     26             22          81046    
+     27             19          81065    
+     28             22          81087    
+     29             22          81109    
+     30             15          81124    
+     31             22          81146    
+     32             56          81202    
+     33             39          81241    
+     34             43          81284    
+     35             35          81319    
+     36             36          81355    
+     37             43          81398    
+     38             35          81433    
+     39             40          81473    
+     40           5229          86702    
+     41             40          86742    
+     42             31          86773    
+     43             22          86795    
+     44             10          86805    
+     45              1          86806    
+     46              1          86807    
+     47              1          86808    
+     48              1          86809    
+     49              1          86810    
+     50              1          86811    
+     51              1          86812    
+     52              1          86813    
+     53              1          86814    
+     54              1          86815    
+     55              1          86816    
+     56              1          86817    
+     57              1          86818    
+     58              1          86819    
+     59              1          86820    
+     60              1          86821    
+     61              1          86822    
+     62              1          86823    
+     63              1          86824    
+     64              1          86825    
+     65              1          86826    
+     66              1          86827    
+     67              1          86828    
+     68              1          86829    
+     69              1          86830    
+     70              1          86831    
+     71              1          86832    
+     72              1          86833    
+     73              1          86834    
+     74          31032         117866    
+     75              1         117867    
+     76              1         117868    
+     77              1         117869    
+     78              1         117870    
+     79           8066         125936    
+     80              1         125937    
+     81              1         125938    
+     82              1         125939    
+     83              1         125940    
+     84              1         125941    
+     85              1         125942    
+     86              1         125943    
+     87              1         125944    
+     88              1         125945    
+     89              1         125946    
+     90           2753         128699    
+     91              9         128708    
+     92              9         128717    
+     93              9         128726    
+     94              9         128735    
+     95              9         128744    
+     96              9         128753    
+     97              9         128762    
+     98              9         128771    
+     99              9         128780    
+    100              9         128789    
+    101          14460         143249    
+    102             10         143259    
+    103             10         143269    
+    104             10         143279    
+    105             10         143289    
+    106             10         143299    
+    107           9368         152667    
+    108             19         152686    
+    109             19         152705    
+    110             19         152724    
+    111             19         152743    
+    112             19         152762    
+    113             15         152777    
+    114             10         152787    
+    115             10         152797    
+    116           6547         159344    
+    117             14         159358    
+    118             14         159372    
+    119             14         159386    
+    120             14         159400    
+    121             14         159414    
+    122             14         159428    
+    123           5402         164830    
+    124             22         164852    
+    125             18         164870    
+    126              9         164879    
+    127           4064         168943    
+    128              9         168952    
+    129              9         168961    
+    130              9         168970    
+    131          10301         179271    
+    132              9         179280    
+    133              9         179289    
+    134              9         179298    
+    135              9         179307    
+    136              1         179308    
+    137              1         179309    
+    138          16992         196301    
+    139             10         196311    
+    140             10         196321    
+    141             10         196331    
+    142             10         196341    
+    143             10         196351    
+    144             10         196361    
+    145             10         196371    
+    146            188         196559    
+    147              1         196560    
+    148          16954         213514    
+    149             11         213525    
+    150              1         213526    
+    151          26043         239569    
+    152              8         239577    
+    153              4         239581    
+    154           1273         240854    
+    155             11         240865    
+    156           6330         247195    
+    157              8         247203    
+    158              4         247207    
+    159          22979         270186    
+    160             10         270196    
+    161             10         270206    
+    162             10         270216    
+    163             10         270226    
+    164             10         270236    
+    165             10         270246    
+    166             10         270256    
+    167             10         270266    
+    168             10         270276    
+    169             24         270300    
+    170           8023         278323    
+    171              8         278331    
+    172           1917         280248    
+    173              8         280256    
+    174           2633         282889    
+    175              8         282897    
+    176              4         282901    
+    177          13463         296364    
+    178             11         296375    
+    179          64188         360563    
+    180              1         360564    
+    181              8         360572    
+    182              1         360573    
+    183              1         360574    
+    184              1         360575    
+    185              1         360576    
+    186              1         360577    
+    187              1         360578    
+    188              1         360579    
+    189              1         360580    
+    190              1         360581    
+    191              1         360582    
+    192              1         360583    
+    193              1         360584    
+    194              1         360585    
+    195              1         360586    
+    196              1         360587    
+    197              1         360588    
+    198              1         360589    
+    199              1         360590    
+    200              1         360591    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                   197
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+backupemail                            0             0                     0
+Copy 1                                 0           151                    93
+formpdf                                0           112                     0
+docform                                0           112                     0
+dodo                                   0             0                     0
+Star Auto Shape                        0             0                     0
+Path 4                                 0             0                     0
+Path 3                                 0             0                     0
+Path 2                                 0             0                     0
+Path 1                                36             0                     0
+Copy 11                                0             0                     0
+Copy 10                               33             0                     0
+Copy 9                                 0             0                     0
+Copy 8                                 0             0                     0
+Copy 7                                 0             0                     0
+Copy 6                                 0             0                     0
+Copy 5                                 0             0                     0
+Copy 4                                 0             0                     0
+Copy 3                                 0             0                     0
+Copy 2                                 0             0                     0
+Copy 1                                 0           151                    93
+web2                                   0             0                  1682
+Copy 34                                0             0                     0
+Copy 33                               41            49                     0
+Copy 32                                0             0                     0
+Copy 31                                0             0                     0
+Copy 30                                0             0                     0
+Copy 29                                0             0                     0
+Copy 28                                0             0                     0
+Copy 27                                0             0                     0
+Copy 26                                0             0                     0
+Copy 25                                0             0                     0
+Copy 24                                0             0                     0
+Copy 23                                0             0                     0
+Copy 22                                0             0                     0
+mc_imprensa                           58             0                   889
+Copy 21                                0             0                     0
+Copy 20                                0             0                     0
+Copy 19                                0           134                     0
+Copy 18                                0             0                     0
+Copy 17                                0             0                     0
+Copy 16                                0             0                     0
+Copy 15                                0             0                     0
+Copy 14                                0             0                     0
+Copy 13                                0             0                     0
+webthumbs                             46             0                  1052
+botao3                                 0             0                     0
+bota02                                 0             0                     0
+botao1                                 0             0                     0
+Path                                 174             0                     0
+Copy 12                                0             0                     0
+Path                                 174             0                     0
+Copy 11                                0             0                     0
+Path                                 174             0                     0
+Copy 10                               33             0                     0
+Path                                 174             0                     0
+Copy 9                                 0             0                     0
+Path                                 174             0                     0
+Copy 8                                 0             0                     0
+port1                                  0             0                     0
+Path 4                                 0             0                     0
+Path 3                                 0             0                     0
+Path 2                                 0             0                     0
+Path 1                                36             0                     0
+Path                                 174             0                     0
+Copy 7                                 0             0                     0
+mc_portifolio                         80           147                   113
+Symbol 4                               0            54                     0
+fechars                                0             0                     0
+Copy 6                                 0             0                     0
+Copy 5                                 0             0                     0
+Copy 4                                 0             0                     0
+Copy 3                                 0             0                     0
+mc_email                               0          1072                    98
+email                                  0             0                     0
+emailbuttom                            0             0                     0
+botoa                                  0           110                     0
+botao                                  0             0                     0
+Symbol 3                               0             0                     0
+Symbol 3dd                             0            40                     0
+mctecn                                 0            55                     0
+bottec                                 0             0                     0
+tecs                                   0             0                     0
+tec                                    0             0                     0
+habilitys                              0           392                     0
+mc-habilidades                       399             0                     1
+f                                      0             0                     0
+botlinks                               0            46                     0
+LINK4                                  0           130                     0
+LINK3                                  0           103                     0
+LINK2                                  0            53                     0
+LINK                                   0            59                     0
+mc_link                                0             0                   144
+mc_linksd                              0             0                     0
+curriculo                              0            54                     0
+textocurriculo                         0           492                     0
+Copy 2                                 0             0                     0
+Copy 1                                 0           151                    93
+mc_curriculo                           0             0                     1
+GLOBO                                  0             0                     0
+btlivros                               0            49                     0
+livros                                 0          1662                     0
+mc_livros                             56             0                     0
+mcg                                    0             0                     0
+mc                                     0             0                    40
+cli                                    0             0                     0
+clientes                               0            50                     0
+c2                                     0           299                     0
+Rectangle                              0             0                     0
+Copy 8                                 0             0                     0
+Copy 7                                 0             0                     0
+Rectangle                              0             0                     0
+Copy 6                                 0             0                     0
+Rectangle                              0             0                     0
+Copy 5                                 0             0                     0
+mcclientes                             0             0                     1
+servd                                  0            51                     0
+serv2                                  0             0                     0
+serv                                   0           775                     0
+mc_servicos                            0             0                     1
+se                                     0             0                     0
+voltar                                 0             0                     0
+Copy 4                                 0             0                     0
+Copy 3                                 0             0                     0
+Copy 2                                 0             0                     0
+Copy 1                                 0           151                    93
+textcerti                              0           691                     0
+Copy 12                                0             0                     0
+Copy 11                                0             0                     0
+Copy 8                                 0             0                     0
+Symbol 2                               0            54                     0
+mc_texto_certificado                   0             0                     0
+mc_certificados                        0             0                    40
+FECHAR                                 0            49                     0
+textoid                                0           104                     0
+Copy 7                                 0             0                     0
+siteatual                              0             0                     0
+Copy 6                                 0             0                     0
+mc_destalt                             0             0                    48
+quadrado                              49             0                     0
+mc_portalt                             0             0                     0
+menutop                                0             0                     0
+destaques                              0             0                     0
+Path 1                                36             0                     0
+Copy 5                                 0             0                     0
+Path 1                                36             0                     0
+Copy 4                                 0             0                     0
+Path                                 174             0                     0
+Copy 3                                 0             0                     0
+mc_destaques                           0             0                     0
+certificados                           0             0                     0
+LINK1                                  0             0                     0
+mc_links                               0             0                   348
+blog                                   0             0                     0
+Copy 1                                 0           151                    93
+mc_logoblog                            0             0                     0
+papel3                                 0             0                     0
+Copy 36                                0             0                     0
+papel2                                 0             0                     0
+Copy 35                                0             0                     0
+papel1                                 0             0                     0
+Copy 34                                0             0                     0
+mail                                   0             0                     0
+Copy 33                               41            49                     0
+bolinha2                               0             0                     0
+Copy 32                                0             0                     0
+Copy 31                                0             0                     0
+Copy 30                                0             0                     0
+bolinha                                0             0                     0
+Copy 29                                0             0                     0
+Copy 28                                0             0                     0
+Copy 22                                0             0                     0
+mc_menu                                0             0                     0
+Copy 21                                0             0                     0
+menu                                   0             0                     0
+Path                                 174             0                     0
+Copy 20                                0             0                     0
+barraverde                             0             0                     0
+Path                                 174             0                     0
+Copy 19                                0           134                     0
+bolad                                  0             0                     0
+Copy 18                                0             0                     0
+mao                                    0             0                     0
+Bitmap                                 0             0                     0
+Copy 17                                0             0                     0
+mc_mao                                 0             0                     1
+Copy 16                                0             0                     0
+Copy 15                                0             0                     0
+mclogo                                62             0                     1
+Copy 10                               33             0                     0
+Copy 9                                 0             0                     0
+mc_parafuso1                           0             0                     0
+Symbol 1                               0             0                     0
+Copy 8                                 0             0                     0
+Copy 6                                 0             0                     0
+Path                                 174             0                     0
+Copy 5                                 0             0                     0
+Path                                 174             0                     0
+Copy 4                                 0             0                     0
+mc_ganhco                              0             0                     0
+Copy 1                                 0           151                    93
+mc_quadro                              0             0                     0
+Copy 1                                 0           151                    93
+mc_fundo                               0             0                     0
+Copy 12                                0             0                     0
+Copy 9                                 0             0                     0
+mc_adorno4                             0             0                     0
+Bitmap                                 0             0                     0
+Copy 8                                 0             0                     0
+mc_adorno3                             0             0                     0
+Bitmap                                 0             0                     0
+Copy 7                                 0             0                     0
+mc_adorno2                             0             0                     0
+Bitmap                                 0             0                     0
+Copy 6                                 0             0                     0
+Bitmap                                 0             0                     0
+Copy 5                                 0             0                     0
+Bitmap                                 0             0                     0
+Copy 4                                 0             0                     0
+mc_adorno                              0             0                     0
+Bitmap                                 0             0                     0
+Copy 2                                 0             0                     0
+Copy 1                                 0           151                    93
+mc_parafuso2                           0             0                     0
+Copy 10 copy                           0             0                     0
+mc_e_lapis                             0             0                     0
+Copy 11                                0             0                     0
+mclapis                               33             0                     1
+mc_barra                              31             0                     0
+mc_arrasta                            62             0                     0
+mc_barra de rolagem                    0             0                  1174
+Copy 9                                 0             0                     0
+Path                                 174             0                     0
+Copy 10                               33             0                     0
+enviar                                 0             0                     0
+limpar                                 0             0                     0
+load                                   0             0                     0
+carregador                             0             0                     0
+barra                                  0             0                     0
+loadinmg                               0             0                     0
+1                                     41             0                     0
+road                                  42             0                     0
+manrun                             10232             0                     0
+preloader                            892             0                     0
+
+
+Tweened Shapes: 544 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Verdana                        2776     !();EOSabcdefgimnoprstuv
+Becker-Medium Bold              333    "
+AvantGarde-Book Bold           4278     ().179ABCDEFGIJNPRSTUabcdeghijlmnoprstuvwxêí
+Tw Cen MT                      4038     ,.ACEIMOPRSUVabcdefghijlmnopqrstuvwxzáãçéêõ
+Avant Guard Bold               5600     :ACDFGHIJLMPQRSTVYabcdeghijklmnopqrstuvwzáãç
+Avant Guard                    5265     ,-./ACDFHIJLMPRSTWabcdefghijlmnoprstuvwxãçóõ
+WC Rhesus B Bta Bold          10544    ads
+Tw Cen MT Bold                 2916     ACEFHLOPRTUXabcdefghiklmnoprstuvç
+AvantGarde Bk BT Bold          3409     -ABDFLORTVabcdefgilmnoprstuvwáãç
+AvantGarde Bk BT               5355     (),-.0125678:ABCDEFHIJOPRSTVWabcdefghilmnoprstuvwyzáãçõú
+
+ActionScript Bytes    Location
+------------------    --------
+                 1    Scene 1:carregar:1
+               101    Scene 1:carregar:1:No instance name assigned(preloader)
+                 0    Scene 1:acoes:5
+                 1    mclogo:action:75
+                 0    Scene 1:acoes:41
+                 1    mclapis:action:51
+                 1    mc_mao:Layer 1:30
+                37    Scene 1:mail:116:No instance name assigned(emailbuttom)
+                36    mc_links:certificados:1:No instance name assigned(Symbol 4)
+                37    mc_links:certificados:1:No instance name assigned(botoa)
+                37    mc_links:certificados:1:No instance name assigned(bottec)
+                37    mc_links:certificados:1:No instance name assigned(botlinks)
+                40    mc_links:certificados:1:No instance name assigned(curriculo)
+                38    mc_links:certificados:1:No instance name assigned(btlivros)
+                40    mc:Layer 1:1:No instance name assigned(cli)
+                40    mc_links:certificados:1:No instance name assigned(mcg)
+                40    mc_links:certificados:1:No instance name assigned(servd)
+                43    mc_links:certificados:1:No instance name assigned(Symbol 2)
+                 1    Scene 1:acoes:146
+                44    Scene 1:destaques:146:No instance name assigned(destaques)
+                 1    Scene 1:acoes:148
+                 1    mc_destalt:acoes:28
+                39    mc_destalt:fechar:28:No instance name assigned(FECHAR)
+                 8    mc_destalt:foto:28:No instance name assigned(siteatual)
+                 1    Scene 1:certificados:149
+                 1    mc_certificados:action:63
+                39    mc_certificados:voltar:63:No instance name assigned(voltar)
+                 1    Scene 1:acoes:152
+                 1    Scene 1:acoes:154
+                 1    mc_servicos:acao:30
+                 1    Scene 1:acoes:155
+                 1    mcclientes:Layer 2:30
+                 1    Scene 1:acoes:157
+              1174    mc_barra de rolagem:Action Layer:1
+                 1    Scene 1:acoes:169
+                46    Copy 1:Formato.pdf:1:No instance name assigned(formpdf)
+                47    Copy 1:Formato.doc:1:No instance name assigned(docform)
+                 1    mc_curriculo:curricluo:36
+                 1    Scene 1:acoes:171
+                31    mc_link:links:30:No instance name assigned(LINK4)
+                36    mc_link:links:30:No instance name assigned(LINK3)
+                36    mc_link:links:30:No instance name assigned(LINK2)
+                40    mc_link:links:30:No instance name assigned(LINK)
+                 1    mc_link:Layer 4:41
+                 1    Scene 1:acoes:173
+                 1    mc-habilidades:action:111
+                 1    Scene 1:acoes:175
+                 1    Scene 1:acoes:177
+                67    mc_email:Ações:11
+                 1    mc_email:Textos:12
+                28    mc_email:Ações:13
+                 1    mc_email:Ações:14
+                 1    mc_email:Ações:15
+                 1    Scene 1:acoes:178
+                35    mc_portifolio:icone1:21:No instance name assigned(botao3)
+                36    mc_portifolio:icone2:32:No instance name assigned(bota02)
+                 1    mc_portifolio:Layer 8:42
+                38    mc_portifolio:Layer 3:42:No instance name assigned(botao1)
+                 1    mc_portifolio:Layer 8:53
+               209    web2:soes:10:No instance name assigned(Copy 1)
+               209    web2:unimov:20:No instance name assigned(Copy 2)
+               206    web2:prix:30:No instance name assigned(Copy 3)
+               212    web2:flogadao:40:No instance name assigned(Copy 4)
+               212    web2:trevisan:50:No instance name assigned(Copy 5)
+               211    web2:abaurre:59:No instance name assigned(Copy 8)
+               206    web2:pluc1:70:No instance name assigned(Copy 9)
+               216    web2:super:80:No instance name assigned(Copy 10)
+                 1    web2:action:90
+               107    webthumbs:peça1:9:No instance name assigned(Copy 21)
+               146    webthumbs:peça2:16:No instance name assigned(Copy 15)
+               148    webthumbs:peça3:23:No instance name assigned(Copy 17)
+               145    webthumbs:peça4:30:No instance name assigned(Copy 18)
+               146    webthumbs:peça5:37:No instance name assigned(Copy 14)
+               145    webthumbs:peça6:44:No instance name assigned(Copy 16)
+               107    webthumbs:peça7:51:No instance name assigned(Copy 20)
+                 1    webthumbs:action:58
+               107    webthumbs:peça8:58:No instance name assigned(Copy 19)
+                 1    mc_portifolio:Layer 8:63
+                53    mc_imprensa:figura1:10:No instance name assigned(Copy 26)
+                53    mc_imprensa:figura2:20:No instance name assigned(Copy 25)
+               205    mc_imprensa:figura4:20:No instance name assigned(Copy 28)
+                53    mc_imprensa:figura4:30:No instance name assigned(Copy 28)
+               205    mc_imprensa:figura5:30:No instance name assigned(Copy 30)
+                53    mc_imprensa:figura5:40:No instance name assigned(Copy 30)
+                53    mc_imprensa:figura6:50:No instance name assigned(Copy 32)
+                53    mc_imprensa:figura7:60:No instance name assigned(Copy 33)
+               107    mc_imprensa:figura8:60:No instance name assigned(Copy 34)
+                 1    mc_imprensa:action:69
+                53    mc_imprensa:figura8:69:No instance name assigned(Copy 34)
+                 1    mc_portifolio:Layer 8:73
+                 1    Scene 1:acoes:181
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Bitmap 34                      49760     1152008   JPEG Quality=80
+Bitmap 36                       1640       12960   JPEG Quality=80
+Bitmap 35                       1648       12960   JPEG Quality=80
+Bitmap 41                       1277       24336   JPEG Quality=80
+Bitmap 45                       2800       50616   JPEG Quality=80
+Bitmap 46                       1375       11232   JPEG Quality=80
+Bitmap 43                      13928      185180   JPEG Quality=80
+Bitmap 44                      13928      185180   JPEG Quality=80
+Bitmap 47                       1999       38016   JPEG Quality=80
+Bitmap 57                       2663      158760   JPEG Quality=80
+Bitmap 126                      1640       12960   JPEG Quality=80
+Bitmap 125                       460        1024   JPEG Quality=80
+Bitmap 124                       888        3968   JPEG Quality=80
+Bitmap 123                      1377        7568   JPEG Quality=80
+Bitmap 122                       631        1936   JPEG Quality=80
+Bitmap 121                      1256        7396   JPEG Quality=80
+Bitmap 120                      1852       13924   JPEG Quality=80
+Bitmap 119                       932        4624   JPEG Quality=80
+Bitmap 118                      2082       17424   JPEG Quality=80
+Bitmap 117                      2933       33856   JPEG Quality=80
+Bitmap 141                      1262        7396   JPEG Quality=80
+Bitmap 140                      1872       13924   JPEG Quality=80
+Bitmap 139                       956        4624   JPEG Quality=80
+Bitmap 138                      2082       17424   JPEG Quality=80
+Bitmap 137                      2954       33856   JPEG Quality=80
+Bitmap 142                      2821       32868   JPEG Quality=80
+Bitmap 144                      5302      306280   JPEG Quality=80
+Bitmap 145                      3969      288456   JPEG Quality=80
+Bitmap 146                      4909      308512   JPEG Quality=80
+Bitmap 154                       316         144   JPEG Quality=80
+Bitmap 153                       441         484   JPEG Quality=80
+Bitmap 152                       602        1224   JPEG Quality=80
+Bitmap 151                       356         288   JPEG Quality=80
+Bitmap 150                       454         900   JPEG Quality=80
+Bitmap 149                       699        2208   JPEG Quality=80
+Bitmap 148                       806        2704   JPEG Quality=80
+Bitmap 147                      1154        5184   JPEG Quality=80
+Bitmap 167                     12848      258688   JPEG Quality=80
+Bitmap 166                      2088       18824   JPEG Quality=80
+Bitmap 170                     16030      232800   JPEG Quality=80
+Bitmap 181                      4164      111888   JPEG Quality=80
+Bitmap 180                      7379      182952   JPEG Quality=80
+Bitmap 2                        6374      681492   JPEG Quality=80
+Bitmap 185                       856        2496   JPEG Quality=80
+Bitmap 198                      1971       22880   JPEG Quality=80
+Bitmap 197                      2434       25740   JPEG Quality=80
+Bitmap 196                      2240       24700   JPEG Quality=80
+Bitmap 195                      2835       23920   JPEG Quality=80
+Bitmap 194                      2293       23140   JPEG Quality=80
+Bitmap 193                      1388       23920   JPEG Quality=80
+Bitmap 192                      2190       24180   JPEG Quality=80
+Bitmap 205                       927        4488   JPEG Quality=80
+Bitmap 204                       929        4488   JPEG Quality=80
+Bitmap 211                      2785       53808   JPEG Quality=80
+Bitmap 210                      4526      545488   JPEG Quality=80
+Bitmap 214                      1716       18216   JPEG Quality=80
+Bitmap 227                      3078       28884   JPEG Quality=80
+Bitmap 228                      4424       33852   JPEG Quality=80
+Bitmap 229                      4032       40768   JPEG Quality=80
+Bitmap 253                      1519       19044   JPEG Quality=80
+Bitmap 254                      1487       19044   JPEG Quality=80
+Bitmap 255                      2200       19044   JPEG Quality=80
+Bitmap 256                      1594       19044   JPEG Quality=80
+Bitmap 257                      1474       19044   JPEG Quality=80
+Bitmap 260                      1695       19044   JPEG Quality=80
+Bitmap 261                      1203       19044   JPEG Quality=80
+Bitmap 263                      1799       18768   JPEG Quality=80
+Bitmap 262                      1196       18768   JPEG Quality=80
+testes                          1631       18768   JPEG Quality=80
+Bitmap 239                      2780       19044   JPEG Quality=80
+Bitmap 232                      2090       19044   JPEG Quality=80
+Bitmap 234                      1198       19044   JPEG Quality=80
+Bitmap 235                      1575       19044   JPEG Quality=80
+Bitmap 231                       644       19044   JPEG Quality=80
+Bitmap 233                      2501       19044   JPEG Quality=80
+Bitmap 237                      1559       19044   JPEG Quality=80
+Bitmap 236                      2087       19044   JPEG Quality=80
+Bitmap 244                      2211       19044   JPEG Quality=80
+Bitmap 243                      2112       19044   JPEG Quality=80
+Bitmap 246                      1323       19044   JPEG Quality=80
+Bitmap 249                      1333       19044   JPEG Quality=80
+Bitmap 250                      1708       19044   JPEG Quality=80
+Bitmap 251                      1599       19044   JPEG Quality=80
+Bitmap 252                      1952       19044   JPEG Quality=80
+
+
+
+

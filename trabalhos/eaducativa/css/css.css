@@ -1,0 +1,52 @@
+body{background-color:#f3f3f4;}
+.fonte_destaque{font-family: 'PT Sans Narrow', sans-serif;}
+.tecnologias{ background-color:#f3f3f4 !important}
+.rodape{ background:#dededf !important;}
+.motivos{ background:#fff !important;}
+.tecs{ margin-top:10px;}
+.slide {       height: 265px !important;background: url(../img/topo.jpg) no-repeat -310px 0;background-size: cover;  overflow: hidden;}
+.navegacao{ margin:0 !important; background-color:#4f4f4e;}
+.navegacao a{ color:#fff; text-decoration:none;}
+.logo img{ width:100%}
+.navbar{border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;}
+.c img{ width:100%;}
+
+.vejacursos{ color:#fff; text-align:center; padding:10px; background: #272525; margin:10px 0px; cursor:pointer; p  }
+.acordeon{font-family: 'PT Sans Narrow', sans-serif; color:#515153; text-align:left; padding:10px;  margin:10px 0px;;cursor:pointer; background: url(../img/mais_l.png)#bcbdc0 right no-repeat; font-size:1.8em; }
+.descricaos{ padding:10px; background-color: #d07200; color:#fff; overflow:hidden}
+.descricaos span{ display:block; border-bottom:2px solid #fff; margin-bottom:10px; font-size:12px;}
+.conversao{ padding:8px 20px; background: url(../img/mais.png)#4e6c14 right no-repeat; color:#fff; display:block; margin-top:5px;  }
+
+.conversao:hover{ color:#fff; text-decoration:none; background-color:#99cc03;  }
+.cont1{ display:block }
+.cont2{ display:none }
+.cont3{ display:none }
+.m{ width:23%; margin:20px 1%; height:180px;text-align:center; color:#fff; float:left; padding:2%;}
+.mot1{ background:#cb9c66;  }
+.mot2{ background:#82531d}
+.mot3{ background:#f36523}
+.mot4{ background:#cb9c66}
+.m img{ display:block; margin:auto; }
+.destaque_slide{ width:190px; margin:30px auto;}
+.destaque_slide strong{ display:block; font-size:2em}
+.navbar-brand{width:158px;}
+.navbar-brand2{ width:158px; height:100px; background:url(../img/setinha.png) no-repeat; position:absolute; margin-top:-2px; margin-left:-170px;}
+.descricaos img{ width:25px; height:25px; float:left ; margin-rigth:40px;}
+.descricaos span{     margin-left: 10px;    float: left;
+    width: 80%;}
+.cercando{    display: block;    overflow: hidden;    clear: both; margin:10px 5px;}
+.linha_escura{ background:#1d1d1e;}
+.central,.centraltel{ float: left; color:#c5c7c3;font-family: 'PT Sans Narrow', sans-serif; }
+.central{ text-align:right; line-height:100%; margin-top:30px; padding-right:10px;font-size:0.8em; border-right: 1px solid #c5c7c3 }
+.centraltel{ text-align:left; margin-top:25px; padding-left:10px;font-size:1.4em}
+.busca  { border: 1px solid #d3d3cf; width:100%; padding:5px; background:url(../img/search.png) #e0e0de right no-repeat;}
+.rs{ float: left; margin:4px; width:20px; height:16px; display:block;}
+.redesocial{ float:right;}
+.f{ background:url(../img/face1.png)}
+.t{ background:url(../img/twiter1.png)}
+.y{ background:url(../img/yt1.png)}
+.f:hover{ background:url(../img/face2.png)}
+.t:hover{ background:url(../img/twiter2.png)}
+.y:hover{ background:url(../img/yt2.png)}
+footer{ padding :30px 0;}
+.links ul{ list-style:none; margin:0 ; padding:0; float:left; width:48%; margin:1%;}

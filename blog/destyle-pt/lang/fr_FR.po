@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: deStyle v0.9\n"
+"PO-Revision-Date: 2009-06-04 20:43+0200\n"
+"Last-Translator: Batou <batou@mon-wordpress.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: ."
+
+#: 404.php:7
+msgid "Error 404, no posts found!"
+msgstr "Erreur 404, aucun article trouvé!"
+
+#: archive.php:14
+#: archive.php:17
+#: archive.php:20
+#: archive.php:23
+msgid "Archive"
+msgstr "Archives"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "0 comments"
+msgstr "0 Commentaire"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "1 comment"
+msgstr "1 Commentaire"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "% comments"
+msgstr "% Commentaires"
+
+#: archive.php:36
+#: author.php:20
+#: index.php:16
+msgid "Comments off"
+msgstr "Les commentaires sont fermés"
+
+#: archive.php:48
+#: author.php:32
+#: image.php:13
+#: index.php:28
+#: search.php:22
+#: single.php:19
+msgid "in"
+msgstr "dans"
+
+#: archive.php:50
+#: author.php:34
+#: index.php:30
+#: search.php:24
+msgid "Read more..."
+msgstr "Lire la suite ..."
+
+#: archive.php:66
+#: author.php:50
+#: index.php:46
+#: search.php:36
+msgid "&laquo; Previous entries"
+msgstr "&laquo; Articles plus anciens"
+
+#: archive.php:69
+#: author.php:53
+#: index.php:49
+#: search.php:39
+msgid "Next entries &raquo;"
+msgstr "Articles plus récents &raquo;"
+
+#: archive.php:81
+#: author.php:65
+#: index.php:61
+#: page-full.php:29
+#: search.php:51
+#: single.php:51
+msgid "Not found!"
+msgstr "Non Trouvé !"
+
+#: archive.php:82
+#: author.php:66
+#: image.php:48
+#: index.php:62
+#: page-full.php:30
+#: page.php:30
+#: search.php:52
+#: single.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun de nos articles ne correspondent à vos critères."
+
+#: archives.php:7
+msgid "Latest Posts"
+msgstr "Derniers Articles"
+
+#: archives.php:25
+msgid "Archive by Month"
+msgstr "Archive par Mois"
+
+#: archives.php:35
+msgid "Categories"
+msgstr "Catégories"
+
+#: comments.php:9
+msgid "Enter your password to view comments."
+msgstr "Entrez votre mot de passe pour voir les commentaires."
+
+#: comments.php:29
+msgid "No Comments"
+msgstr "Aucun Commentaire"
+
+#: comments.php:29
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: comments.php:29
+#: lib/admin/theme-options.php:39
+msgid "Comments"
+msgstr "Commentaires"
+
+#: comments.php:29
+msgid "Leave yours"
+msgstr "Laissez votre"
+
+#: comments.php:43
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:66
+msgid "Leave a Reply"
+msgstr "Laissez un commentaire"
+
+#: comments.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laissez un commentaire à %s"
+
+#: comments.php:70
+msgid "Users must be registered and logged in to comment."
+msgstr "Les utilisateurs doivent être enregistrés et connectés pour commenter."
+
+#: comments.php:71
+#, php-format
+msgid "<a href=\"%s\">Log in to Reply</a>"
+msgstr "<a href=\"%s\">Connectez vous pour laisser un commentaire</a>"
+
+#: comments.php:76
+msgid "Cancel reply"
+msgstr "Annuler le commentaire"
+
+#: comments.php:84
+#, php-format
+msgid "Logged in as %s"
+msgstr "Connecté en tant que %s"
+
+#: comments.php:84
+#: comments.php:84
+msgid "Log out"
+msgstr "Déconnexion"
+
+#: comments.php:89
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:89
+#: comments.php:94
+msgid "(required)"
+msgstr "(requis)"
+
+#: comments.php:94
+msgid "Mail (will not be published)"
+msgstr "Email (ne sera pas publié)"
+
+#: comments.php:99
+msgid "Website"
+msgstr "Site Web"
+
+#: comments.php:106
+msgid "Message"
+msgstr "Message"
+
+#: comments.php:110
+msgid "Submit comment"
+msgstr "Soumettre votre commentaire"
+
+#: footer.php:10
+msgid "All rights reserved"
+msgstr "Tous droits réservés"
+
+#: functions.php:71
+#: sidebar.php:25
+msgid "Search this Site"
+msgstr "Recherche sur ce site"
+
+#: functions.php:82
+msgid "Title"
+msgstr "Titre"
+
+#: functions.php:90
+msgid "Search Widget for deStyle"
+msgstr "Widget Recherche deStyle"
+
+#: functions.php:91
+#: functions.php:92
+msgid "Search"
+msgstr "Recherche"
+
+#: functions.php:104
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=\"fn\">%s</span>"
+
+#: functions.php:104
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: functions.php:107
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: header.php:36
+msgid "Subscribe RSS Feed"
+msgstr "S'abonner au flux RSS"
+
+#: header.php:46
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/sidebar-flickr.php:16
+msgid "My <strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong> Fotos"
+msgstr "Mon album photo <strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong>"
+
+#: inc/sidebar-twitter.php:16
+msgid "My Latest Tweets"
+msgstr "Mes derniers tweets"
+
+#: inc/sidebar-twitter.php:25
+msgid "More updates on"
+msgstr "Plus d'informations sur les mises à jour sur"
+
+#: lib/admin/meta-box.php:12
+#: lib/admin/meta-box.php:47
+msgid "deStyle - Article Image"
+msgstr "deStyle - Article Image"
+
+#: lib/admin/meta-box.php:13
+msgid "Please enter URL of an article image (180x180px)."
+msgstr "Entrez l'URL d'une image pour l'article (180x180px)."
+
+#: lib/admin/theme-admin.php:44
+msgid "Settings saved"
+msgstr "Paramètres sauvegardés"
+
+#: lib/admin/theme-admin.php:45
+msgid "Settings reset"
+msgstr "Remettre les paramètres à zéro"
+
+#: lib/admin/theme-admin.php:50
+msgid "Options"
+msgstr "Options"
+
+#: lib/admin/theme-admin.php:50
+msgid "Any problems? Please visit the ThemeShift.com <a href=\"http://themeshift.com/support\" target=\"_blank\">support forums</a>."
+msgstr "Un problème ? Visitez le <a href=\"http://themeshift.com/support\" target=\"_blank\">forum de support</a> de ThemeShift.com."
+
+#: lib/admin/theme-admin.php:131
+msgid "Save settings"
+msgstr "Enregistrer les paramètres"
+
+#: lib/admin/theme-admin.php:157
+msgid "Reset"
+msgstr "Remettre par défaut "
+
+#: lib/admin/theme-options.php:12
+msgid "General"
+msgstr "Général"
+
+#: lib/admin/theme-options.php:15
+msgid "Page Menu"
+msgstr "Menu des pages"
+
+#: lib/admin/theme-options.php:16
+msgid "Please enter IDs of pages that you want to <strong>exclude</strong> form the page menu (e.g. 5,28,119)."
+msgstr "Entrez les IDs des pages que vous ne souhaitez pas faire apparaître dans le menu des pages (ex: 5,28,119)"
+
+#: lib/admin/theme-options.php:21
+msgid "Category Menu"
+msgstr "Menu des catégories"
+
+#: lib/admin/theme-options.php:22
+msgid "Please enter IDs of categories that you want to <strong>exclude</strong> form the category menu (e.g. 2,13,45)."
+msgstr "Entrez les IDs des catégories que vous ne souhaitez pas afficher dans le menu des catégories (ex:2,13,45)"
+
+#: lib/admin/theme-options.php:27
+msgid "Author Info"
+msgstr "Information sur l'auteur"
+
+#: lib/admin/theme-options.php:28
+msgid "Hide author information after each post?"
+msgstr "Masquer les renseignements concernant l'auteur après chaque article?"
+
+#: lib/admin/theme-options.php:33
+msgid "Sticky Posts"
+msgstr "Articles en vignettes"
+
+#: lib/admin/theme-options.php:34
+msgid "Hide litte badge on sticky post images?"
+msgstr "Masquer le petit badge sur sur la vignette des images des articles?"
+
+#: lib/admin/theme-options.php:40
+msgid "Hide comments template on pages?"
+msgstr "Masquer les commentaires sur le modèle de pages?"
+
+#: lib/admin/theme-options.php:48
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: lib/admin/theme-options.php:52
+msgid "If you enter your Twitter username, your latest 6 tweets will be displayed."
+msgstr "Si vous entrez votre nom d'utilisateur Twitter, vos 6 derniers Tweets seront affichées."
+
+#: lib/admin/theme-options.php:57
+msgid "<strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong> Fotos"
+msgstr "Album photo <strong style=\"color:#3993ff\">flick<span style=\"color:#ff1c92\">r</span></strong>"
+
+#: lib/admin/theme-options.php:58
+msgid "If you enter your Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>) a badge of 9 fotos will be displayed."
+msgstr "Si vous saisissez votre ID Flickr (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>)  9 photos seront affichées."
+
+#: lib/admin/theme-options.php:66
+msgid "Sidebar Ads"
+msgstr "Publicités dans la sidebar"
+
+#: lib/admin/theme-options.php:69
+msgid "Hide Ads?"
+msgstr "Masquer les publicités?"
+
+#: lib/admin/theme-options.php:70
+msgid "Check the box to hide the follwing ads from the sidebar."
+msgstr "Cochez la case pour masquer les publicités dans la sidebar."
+
+#: lib/admin/theme-options.php:75
+#: lib/admin/theme-options.php:93
+#: lib/admin/theme-options.php:111
+#: lib/admin/theme-options.php:129
+#: lib/admin/theme-options.php:147
+#: lib/admin/theme-options.php:165
+msgid "Image"
+msgstr "Image"
+
+#: lib/admin/theme-options.php:76
+#: lib/admin/theme-options.php:94
+#: lib/admin/theme-options.php:112
+#: lib/admin/theme-options.php:130
+#: lib/admin/theme-options.php:148
+#: lib/admin/theme-options.php:166
+msgid "Please enter image url of a square button (125x125px)."
+msgstr "Entrez l'url de l'image d'un bouton carré pour votre article (125x125px)."
+
+#: lib/admin/theme-options.php:81
+#: lib/admin/theme-options.php:99
+#: lib/admin/theme-options.php:117
+#: lib/admin/theme-options.php:135
+#: lib/admin/theme-options.php:153
+#: lib/admin/theme-options.php:171
+msgid "Link"
+msgstr "Lien"
+
+#: lib/admin/theme-options.php:82
+#: lib/admin/theme-options.php:100
+#: lib/admin/theme-options.php:118
+#: lib/admin/theme-options.php:136
+#: lib/admin/theme-options.php:154
+#: lib/admin/theme-options.php:172
+msgid "Please enter link url of this ad."
+msgstr "Entrez le lien url de cette annonce."
+
+#: lib/admin/theme-options.php:88
+#: lib/admin/theme-options.php:106
+#: lib/admin/theme-options.php:124
+#: lib/admin/theme-options.php:142
+#: lib/admin/theme-options.php:160
+#: lib/admin/theme-options.php:178
+msgid "Check the box to remove nofollow of this ad."
+msgstr "Cochez la case pour supprimer nofollow de cette annonce."
+
+#: page-archives.php:20
+#: page-authors.php:19
+#: page-bookmarks.php:20
+#: page-full.php:21
+#: page.php:19
+msgid "Edit Page"
+msgstr "Modifier la page"
+
+#: search.php:14
+msgid "entries found for"
+msgstr "entrées trouvées pour"
+
+#: searchform.php:3
+msgid "Enter keyword..."
+msgstr "Entrez les mots-clés ..."
+
+#: searchform.php:4
+msgid "Ok"
+msgstr "Ok"
+
+#: sidebar.php:9
+msgid "Recent Articles"
+msgstr "Articles récents"
+
+#: single.php:25
+msgid "Tags"
+msgstr "Tags"
+
+#: single.php:27
+msgid "Edit Post"
+msgstr "Modifier l'article"
+

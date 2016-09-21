@@ -1,0 +1,226 @@
+@charset "utf-8";
+body {
+	background-color: #000033;
+	background-image:url(img/fundo.jpg);
+	background-repeat:repeat-x;
+}
+/*Quandro geral*/
+#pai{
+	width:840px;
+	height:620px;
+	overflow:hidden;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-310px;
+	margin-left:-420px;
+}
+
+/* menu e logo*/
+#direito{
+	float:left;
+	width:270px;
+	}
+#direito h1{
+	display:block;
+	width:205px;
+	overflow:hidden;
+	text-indent:-8000px;
+	background-image:url(img/logo.png);
+	background-repeat:no-repeat;
+	padding:0;
+	margin:auto;
+	height:103px;
+}
+.menu{
+	background-image:url(img/menu.png);
+	background-repeat:no-repeat;
+	width:270px;
+	margin-top:10px;
+	overflow:hidden;
+}
+.menu ul{
+	list-style:none;
+}
+.menu li{
+	padding:0;
+	margin: 5px 30px;
+	padding-left:5px;
+}
+.menu li a{
+	font-size:22px;
+	color:#333333;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+
+.menu2 H2{
+	padding:0px;
+	margin:38px 0 0 90px;
+	color:#333333;
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+}
+.word{
+	float:left;
+	width:60px;
+	margin-left:18px;
+	height:40px;
+	display:block;
+	background-image:url(img/word.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	outline:none;
+	}
+.pdf{
+	float:left;
+	width:60px;
+	margin-left:18px;
+	height:40px;
+	display:block;
+	background-image:url(img/pdf.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	outline:none;
+	}
+.pdf:hover{
+	background-image:url(img/pdf2.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	}
+.word:hover{
+	background-image:url(img/word2.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	
+	}
+.curriculo{
+	margin:auto;
+	width:164px;
+	overflow:hidden;}
+.bau{
+	
+	width:150px;
+	height:135px;
+	display:block;
+	margin:auto;
+	background-image: url(img/versao_antiga.png);
+	background-repeat:no-repeat;
+	margin-top:10px;}
+.bau:hover{
+	background-image:url(img/versao_antiga_2.png);
+	background-repeat:no-repeat;}
+	
+
+/* CLASSS DO MENU*/
+.class1{border-left:12px solid #990000;}
+.class2{border-left:12px solid #FF0000;}
+.class3{border-left:12px solid #FF3300;}
+.class4{border-left:12px solid #ff6600;}
+.class5{border-left:12px solid #FF9900;}
+.class6{border-left:12px solid #FF9933;}
+
+/*conteudo*/
+#conteudo{
+	float:left;
+	width:570px;
+	background-image: url(img/lapis.png);
+	background-repeat:no-repeat;
+	overflow:hidden;
+	}
+#conteudo_modelo{
+	float:left;
+	width:570px;
+	overflow:hidden;
+	background-image:url(img/fundo_news.png);
+	background-repeat:no-repeat;
+	
+	}
+.conteudo_quem_sou{
+	font-size:12px;
+	color:#333;
+	font-family:verdana, Helvetica, sans-serif;
+	line-height:110%;
+	letter-spacing:2px;
+	height:620px;
+	padding:40px;
+	overflow:hidden;
+}
+.conteudo_quem_sou span{
+	font-size:25px;
+	color:#333;
+	font-family:verdana, Helvetica, sans-serif;
+	font-weight:bold;
+	margin-top:10px;
+	display:block;
+	margin-bottom:30px;
+}
+.destaque{
+	background-image:url(img/fundo-conteudo.png);
+	background-repeat:no-repeat;
+	width:490px;
+	height:457px;
+	margin:105px 0 0 20px;
+	overflow:hidden;}
+#doispontozero{
+	background-image:url(img/2pontozero.png);
+	background-repeat:no-repeat;
+	width:155px;
+	height:225px;
+	position:absolute;
+	top:0;
+	right:0}
+.tv{
+	width:374px;
+	height:400px;
+	margin-top:60px;
+	margin-left:73px;
+	background-image:
+}
+.previous,.next{display:none;}
+.numbers{
+	margin-left:310px;}
+.tv_mania{
+	display:block;
+	width:180px;
+	height:150px;
+	position:absolute;
+	margin-top:270px;
+	padding-left:20px;}
+.titulo,.url,.descricao,.tec{
+	display:block;
+	font-size:12px;
+	color:#333333;
+	font-family:Arial, Helvetica, sans-serif;
+	 }
+#nav{
+	margin-top:-150px;
+}
+#nav a{
+	font-size:20px;
+	color:#8E1B0D;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	width:40px;
+	margin-left:-1px;
+	margin-right:29px;
+	outline:none;
+}
+#nav a:hover{
+	color:#FF6600;
+}
+.balao{
+	background-image:url(img/balao.png);
+	background-repeat:no-repeat;
+	height:90px;
+	margin-bottom:-126px;
+	margin-left:250px;
+	width:156px;
+	display:block;}
+
+.boneco{
+	width:120px;;
+	height:60px;
+	margin-bottom:-60px;
+	margin-left:344px;}

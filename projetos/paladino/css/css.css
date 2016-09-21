@@ -1,0 +1,25 @@
+@charset "utf-8";
+body	{
+	background:url(../img/fundo.jpg)repeat;
+	background-size: cover;
+	padding-bottom:190px;
+}
+.pisomadeira{ width:100%; height:80px;background:url(../img/pisomadeira.png) no-repeat; background-size: cover; position:absolute; bottom:0; left:0}
+.frutas{ width:100%; height:180px;background:url(../img/frutas.png)repeat-x; position:absolute; bottom:2px; left:0; z-index:100}
+.logo{ margin:0 auto 2em auto; width:30%; }
+.t_center{ text-align:center}
+.auto{ margin:auto;}
+.btn_grupo{ width:55%;  overflow:hidden; min-width:700px;}
+.btn_cozinha,.btn_pedidos{ width:214px; height:214px; display:block;}
+.btn_cozinha{background:url(../img/btn_cozinha.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.1s;}
+	.btn_cozinha:hover{background:url(../img/btn_cozinha_2.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.1s;}
+.btn_pedidos{background:url(../img/btn_pedidos.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.5s;}
+	.btn_pedidos:hover{background:url(../img/btn_pedidos_2.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.1s;}
+	.bt2{ float:left}
+	.bt1{ float:right}
+	.menu{ width:90%; overflow:hidden; margin:auto}
+.f_menu_lateral{ width:48%; margin:1%; float:left}
+	.f_menu{background:url(../img/fundo_menu.jpg) no-repeat; background-size:cover; min-height:80px;}
+	.f_menu_interno{ margin:5px; border:2px dashed #fff; padding:10px}
+	.f_menu h2{ color:#fff;}
+	

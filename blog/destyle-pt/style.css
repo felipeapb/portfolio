@@ -1,0 +1,900 @@
+/*
+Theme Name: deStyle
+Theme URI: http://www.wpthemespt.com/2009/destyle-theme
+Description: Blog Magazine WordPress Theme por ThemeShift.com e traduzido por WPThemesPT.com
+Version: 0.9.1
+Author: Simon Rimkus
+Author URI: http://themeshift.com
+Tags: blog, magazine, light, fresh
+*/
+
+/*
+        - GENERAL
+        - HTML ELEMENTS
+        - BASIC LAYOUT
+        - HEADER
+        - MENU
+        - CONTENT
+        - PREDEFINED CLASSES
+        - SIDEBAR
+        - FORMS
+        - COMMENTS
+        - PAGING
+        - FLICKR BADGE
+        - CLEARING
+        - WORDPRESS CSS
+        - WIDGET CSS
+
+*/
+
+
+/*        ##################################
+           GENERAL
+        ################################## */
+
+body {
+        margin: 0px;
+        padding: 0px;
+        background: #eeeee9 url(img/bg-body.jpg) repeat-x left top;
+        color: #4a4a4a;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 11px;
+}
+
+
+/*        ##################################
+           HTML ELEMENTS
+        ################################## */
+
+a {
+        color: #7a3737;
+}
+
+img {
+        border: none;
+}
+
+p, ul, ol, dl {
+        line-height: 22px;
+        margin: 0 0 20px 0;
+}
+
+hr {
+        height: 1px;
+        margin: 20px 0;
+        background: #eeeee9;
+        border: none;
+        clear: both;
+}
+
+h1, h2, h3, h4, h5, h6 {
+        margin: 0 0 20px;
+        padding: 0px;
+        line-height: normal;
+}
+
+h1 {
+        font-size: 24px;
+}
+
+h2 {
+        font-size: 20px;
+}
+
+h3 {
+        font-size: 16px;
+}
+
+h4, h5, h6 {
+        margin-bottom: 10px;
+}
+
+blockquote {
+        margin: 0 0 0 10px;
+        padding: 0 0 0 50px;
+        background: transparent url(img/bg-blockquote.png) no-repeat left top;
+        font-style: italic;
+}
+
+address {
+        padding: 0 0 0 15px;
+        font-style: italic;
+}
+
+pre {
+        display: block;
+        margin: 0 0 20px 0;
+        padding: 10px;
+        background: #eeeee9;
+        border: 1px solid #ccc;
+        font-family: "Courier New", Courier, serif;
+        overflow: auto;
+}
+
+code {
+        font-family: "Courier New", Courier, serif;
+}
+
+dt {
+        font-weight: bold;
+}
+
+table {
+        margin: 0 0 20px;
+        border-collapse: collapse;
+}
+
+th {
+        padding: 5px;
+        background: #eeeee9;
+        border: 1px solid #ddd;
+        text-align: left;
+}
+
+td {
+        padding: 5px;
+        border: 1px solid #ddd;
+}
+
+
+/*        ##################################
+           BASIC LAYOUT
+        ################################## */
+
+#main {
+        width: 980px;
+        margin: 0 auto;
+        background: transparent url(img/bg-page.jpg) no-repeat 0px 40px;
+}
+
+#header {
+        position: relative;
+        width: 960px;
+        height: 140px;
+        margin: 0 auto;
+}
+
+#content-wrap {
+        padding: 20px 0 0;
+        background: transparent url(img/bg-content-wrap.png) repeat-y left top;
+        z-index: 1;
+}
+
+#content-top {
+        height: 20px;
+        background: transparent url(img/bg-content-top.png) no-repeat left bottom;
+        z-index: 2;
+}
+
+#content {
+        margin: 0 40px;
+        background: transparent url(img/bg-content.gif) repeat-y 600px 0px;
+        z-index: 3;
+}
+
+#footer {
+        position: relative;
+        padding: 0 0 30px 0;
+        line-height: 22px;
+        text-align: center;
+}
+
+
+/*        ##################################
+           HEADER
+        ################################## */
+
+#page-menu {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+}
+
+#page-menu li {
+        float: left;
+        width: auto;
+}
+
+#page-menu a {
+        margin: 0 20px 0 0;
+        background: transparent;
+        color: #fff;
+        text-decoration: none;
+}
+
+#page-menu a:hover,
+#page-menu .current_page_item a {
+        color: #f4dec7;
+}
+
+#rss {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        height: 40px;
+        margin: 0px;
+        padding: 0 30px 0 0;
+        line-height: normal;
+        background: transparent url(img/bg-rss.png) no-repeat right center;
+        color: #fff;
+}
+
+#rss a {
+        line-height: 40px;
+        background: transparent;
+        color: #fff;
+        border-bottom: 1px dotted #fff;
+        text-decoration: none;
+}
+
+h1#blog-title {
+        position: absolute;
+        bottom: 40px;
+        left: -10px;
+        margin: 0px;
+        padding: 0px;
+        color: #f4dec7;
+        font-size: 12px;
+        font-weight: normal;
+}
+
+h1#blog-title img {
+        margin: 0 0 -10px;
+}
+
+
+/*        ##################################
+           MENU
+        ################################## */
+
+        /** /lib/superfish/superfish.css */
+
+
+/*        ##################################
+           CONTENT
+        ################################## */
+
+#page-full #content {
+        background: #fff;
+}
+
+#content-bottom {
+        height: 20px;
+        background: transparent url(img/bg-content-bottom.png) repeat-y left top;
+}
+
+#content-left {
+        display: inline;
+        float: left;
+        width: 570px;
+}
+
+#content-right {
+        float: right;
+        width: 300px;
+}
+
+.box-left {
+        margin: 0 0 30px;
+        padding: 0 0 10px;
+        line-height: 22px;
+        border-bottom: 1px solid #eeeee9;
+}
+
+.box-right {
+        margin: 0 0 30px 30px;
+        padding: 0 0 10px;
+        border-bottom: 1px solid #eeeee9;
+}
+
+.box-full {
+        margin: 0px;
+        padding: 0 0 1px;
+        line-height: 22px;
+}
+
+#content ul, #content ol {
+        margin: 0 0 20px;
+        padding: 0 0 0 20px;
+}
+
+#content li {
+        padding: 2px 0;
+        list-style: disc;
+}
+
+#content ol li {
+        list-style: decimal;
+}
+
+#content li ul, #content li ol {
+        margin: -2px 0 -2px 20px;
+        padding: 0px;
+}
+
+#content li li {
+        list-style: circle;
+        background: none;
+}
+
+#content ol li li {
+        list-style: upper-roman;
+}
+
+#content li li li {
+        list-style: square;
+}
+
+#content ol li li li {
+        list-style: lower-latin;
+}
+
+h1.category-title {
+        margin: 0 0 30px;
+        padding: 0 0 10px;
+        color: #7a3737;
+        border-bottom: 1px solid #eeeee9;
+}
+
+.article-left {
+        position: relative;
+        float: left;
+        width: 220px;
+        margin: 0 0 20px 0;
+        z-index: 4;
+}
+
+.sticky-post {
+        position: absolute;
+        top: -10px;
+        left: -10px;
+        z-index: 100;
+}
+
+.article-right {
+        float: right;
+        width: 350px;
+}
+
+img.article-img {
+        padding: 10px;
+        background: #eeeee9;
+}
+
+img.article-img-single,
+.box-author img.avatar {
+        float: left;
+        margin: 0 20px 20px 0;
+        padding: 10px;
+        background: #eeeee9;
+}
+
+a:hover img.article-img {
+        background: #deded9;
+}
+
+.img-caption {
+        padding: 0 10px;
+        height: 30px;
+        line-height: 30px;
+        background: transparent url(img/bg-img-caption.png) no-repeat left top;
+        color: #fff;
+        font-weight: bold;
+}
+
+.img-caption a {
+        background: transparent;
+        color: #fff;
+        text-decoration: none;
+}
+
+img.shadow {
+        background: transparent url(img/shadow.gif) no-repeat right bottom;
+        padding: 5px 10px 10px 5px;
+}
+
+.gallery img {
+        padding: 10px;
+        background: #eeeee9;
+        border: none!important;
+}
+
+h2.article-title {
+        margin: 0 0 10px;
+        line-height: normal;
+        color: #1f1f1f;
+        font-size: 26px;
+        letter-spacing: -1px;
+}
+
+h2.article-title a {
+        color: #1f1f1f;
+        text-decoration: none;
+}
+
+h2.article-title a:hover {
+        text-decoration: underline;
+}
+
+.article-meta {
+        margin: 0 0 10px 0;
+}
+
+.article-teaser {
+        font-weight: bold;
+}
+
+a.more-link {
+        display: block;
+        margin: 20px 0 30px 0;
+}
+
+h3.content-title {
+        margin: 0 0 10px 0;
+        color: #1f1f1f;
+        font-size: 16px;
+        font-weight: normal;
+}
+
+#author-single {
+        position: relative;
+}
+
+#author-single .avatar {
+        float: left;
+        width: auto;
+        margin: 0 20px 30px 0;
+}
+
+#page-bookmarks {
+        margin: 0px;
+        padding: 0px;
+        line-height: 22px;
+        border-bottom: 1px solid #eeeee9;
+}
+
+#page-bookmarks .box-left {
+        float: left;
+        width: 255px;
+        margin: 0 20px 0 0;
+        padding: 0 0 10px;
+        line-height: 22px;
+        border-bottom: none;
+}
+
+
+/*        ##################################
+           PREDEFINED CLASSES
+        ################################## */
+
+.btn {
+        padding: 5px 10px 6px;
+        background: transparent url(img/bg-btn.png) no-repeat left top;
+        color: #fff;
+        font-weight: bold;
+        text-decoration: none;
+}
+
+.alert {
+        padding: 10px 10px 10px 60px;
+        line-height: 20px;
+        border: 1px dotted #eeeee9;
+        background: #fffad2 url(img/bg-class-alert.png) no-repeat 10px 10px;
+}
+
+.checked {
+        padding: 10px 10px 10px 60px;
+        line-height: 20px;
+        border: 1px dotted #eeeee9;
+        background: #fffad2 url(img/bg-class-checked.png) no-repeat 10px 10px;
+}
+
+.download {
+        padding: 10px 10px 10px 60px;
+        line-height: 20px;
+        border: 1px dotted #eeeee9;
+        background: #fffad2 url(img/bg-class-download.png) no-repeat 10px 10px;
+}
+
+.preview {
+        padding: 10px 10px 10px 60px;
+        line-height: 20px;
+        border: 1px dotted #eeeee9;
+        background: #fffad2 url(img/bg-class-preview.png) no-repeat 10px 10px;
+}
+
+.info {
+        padding: 10px 10px 10px 60px;
+        line-height: 20px;
+        border: 1px dotted #eeeee9;
+        background: #fffad2 url(img/bg-class-info.png) no-repeat 10px 10px;
+}
+
+.arrow {
+        padding: 10px 10px 10px 60px;
+        line-height: 20px;
+        border: 1px dotted #eeeee9;
+        background: #fffad2 url(img/bg-class-arrow.png) no-repeat 10px 10px;
+}
+
+.happy {
+        padding: 10px 10px 10px 60px;
+        line-height: 20px;
+        border: 1px dotted #eeeee9;
+        background: #fffad2 url(img/bg-class-happy.png) no-repeat 10px 10px;
+}
+
+
+/*        ##################################
+           SIDEBAR
+        ################################## */
+
+h3.sidebar-title {
+        margin: 0 0 10px;
+        padding: 0px;
+        line-height: 16px;
+        color: #1f1f1f;
+        font-size: 16px;
+        font-weight: normal;
+}
+
+.ad-left {
+        float: left;
+        width: auto;
+        margin: 0 20px 20px 0;
+}
+
+.ad-right {
+        float: right;
+        width: auto;
+        margin: 0 0 20px;
+}
+
+#sidebar-twitter ul,
+#recent-comments ul {
+        margin-left: 0px;
+        padding-left: 0px;
+}
+
+#sidebar-twitter li,
+#recent-comments li {
+        list-style: none;
+}
+
+
+/*        ##################################
+           FORMS
+        ################################## */
+
+#searchform {
+        margin: 0 0 20px;
+}
+
+.box-left #searchform {
+        width: 270px;
+}
+
+#search-text {
+        float: left;
+        width: 218px;
+        height: 22px;
+        padding: 6px 5px 0 5px;
+        background: transparent url(img/bg-input-text.gif) repeat-x left top;
+        border: 1px solid #eeeee9;
+        font-size: 11px;
+}
+
+#search-submit {
+        float: right;
+        width: auto;
+        height: 30px;
+        color: #fff;
+        background: transparent url(img/bg-input-submit.png) no-repeat left top;
+        border: none;
+}
+
+input.text, textarea {
+        width: 75%;
+        padding: 5px;
+        background: #fff url(img/bg-input-text.gif) repeat-x left top;
+        border: 1px solid #eeeee9;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 11px;
+}
+
+textarea {
+        width: 90%;
+        height: 125px;
+}
+
+input.submit, input.button {
+        width: auto;
+        height: 30px;
+        padding: 0 20px;
+        color: #fff;
+        background: transparent url(img/bg-input-submit.png) no-repeat left top;
+        border: none;
+}
+
+
+/*        ##################################
+           COMMENTS
+        ################################## */
+
+#content .commentlist ol {
+        margin: 0px;
+        padding: 0px;
+}
+
+#content .commentlist li {
+        margin: 20px 0 0 0;
+        padding: 20px 0 20px 20px;
+        list-style: none;
+}
+
+#content .commentlist .box-left {
+        margin: 30px 0 0;
+        padding: 0px;
+        border: none;
+}
+
+.commentlist .avatar {
+        float: right;
+        width: auto;
+        margin: 0 0 5px 20px;
+}
+
+.commentlist li p {
+        margin: 0 20px 10px 0;
+}
+
+.commentlist .comment-author {
+        font-size: 12px;
+        font-weight: bold;
+}
+
+.commentlist .comment-author a {
+        padding: 0 0 5px 0;
+        border: none!important;
+}
+
+#content .commentlist ul.children {
+        margin: 0px;
+        padding: 0px;
+}
+
+#content .commentlist .children li {
+        margin: 20px 0 0 0;
+        padding: 20px 0 20px 20px;
+        background: none;
+        border-right: none;
+}
+
+.reply a {
+        margin: 10px 0 0 0;
+        padding: 5px 10px;
+        background: transparent url(img/bg-input-submit.png) repeat-x left top;
+        color: #fff;
+        border: none!important;
+        text-decoration: none;
+}
+
+#cancel-comment-reply {
+        margin: 10px 0;
+}
+
+#content .commentlist li.depth-1, #content .commentlist li.depth-3, #content .commentlist li.depth-5 {
+        background: #eeeee9 url(img/bg-comment-top.png) no-repeat left top;
+}
+
+#content .commentlist li.depth-2, #content .commentlist li.depth-4, #content .commentlist li.depth-6 {
+        background: #fff url(img/bg-comment-top-1.png) no-repeat left top;
+        border-right: 1px solid #ebebe1;
+}
+
+#content .commentlist li.depth-4, #content .commentlist li.depth-6 {
+        border: none;
+}
+
+.moderation {
+        padding: 0 0 0 25px;
+        background: transparent url(img/bg-moderation.png) no-repeat left center;
+}
+
+.trackbacklist {
+        margin: 30px 0 0;
+        padding: 30px 0 0;
+        border-top: 1px solid #eeeee9;
+}
+
+#content .trackbacklist ul {
+        margin: 0 0 20px;
+}
+
+#commentform {
+        padding: 0 0 10px 0;
+}
+
+#commentform p {
+        margin: 0 0 10px 0;
+}
+
+.box-comments {
+        position: relative;
+        padding: 0 0 30px;
+}
+
+.comments-paging {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+}
+
+
+/*        ##################################
+           PAGING
+        ################################## */
+
+#paging {
+        margin: 0 0 30px;
+}
+
+.wp-pagenavi .pages {
+        float: right;
+        width: auto;
+}
+
+.wp-pagenavi a, .wp-pagenavi .current {
+        display: block;
+        float: left;
+        width: auto;
+        min-width: 20px;
+        height: 20px;
+        line-height: 20px;
+        margin-right: 5px;
+        background: transparent url(img/bg-paging.png) no-repeat left top;
+        color: #fff;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+}
+
+.wp-pagenavi .current {
+        background: transparent url(img/bg-paging-current.png) repeat-x left top;
+}
+
+
+/*        ##################################
+           FLICKR BADGE
+        ################################## */
+
+#flickr_badge_uber_wrapper {
+        text-align:center;
+}
+
+#flickr_badge_wrapper {
+        padding: 0 0 5px 0;
+}
+
+.flickr_badge_image {
+        display: inline;
+        float: left;
+        width: auto;
+        margin:0 15px 15px 0;
+}
+
+
+/*        ##################################
+           CLEARING
+        ################################## */
+
+.clear {
+        clear: both;
+}
+
+.clearfix:after {
+    content: " ";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+
+/*        ##################################
+           WORDPRESS CSS
+        ################################## */
+
+.aligncenter,
+div.aligncenter {
+           display: block;
+           margin: 0 auto;
+}
+
+.aligncenter {
+        margin-bottom: 20px!important;
+}
+
+.alignleft {
+           float: left;
+           width: auto;
+           margin: 0 20px 20px 0;
+}
+
+.alignright {
+           float: right;
+           width: auto;
+           margin: 0 0 20px 20px;
+}
+
+.wp-caption {
+        margin-bottom: 20px;
+        padding-top: 4px;
+           border: 1px solid #eeeee9;
+           text-align: center;
+           background-color: #f7f7f7;
+}
+
+.wp-caption img {
+           float: none;
+           margin: 0px;
+           padding: 0px;
+           border: none;
+}
+
+.wp-caption p.wp-caption-text {
+           padding: 0px;
+          margin: 0px;
+}
+
+
+/*        ##################################
+           WIDGET CSS
+        ################################## */
+
+#calendar_wrap table {
+        width: 100%;
+}
+
+#calendar_wrap td, #calendar_wrap th {
+        text-align: center;
+        border: none;
+}
+
+#wp-calendar caption {
+        margin: 0 0 10px;
+        font-size: 12px;
+        font-weight: bold;
+}
+
+#content-right #tag_cloud {
+        padding: 0 0 30px;
+        line-height: normal;
+}
+
+#content-right .textwidget {
+        line-height: 22px;
+        padding-bottom: 20px;
+}
+
+#content-right select#cat {
+        margin-bottom: 20px;
+}

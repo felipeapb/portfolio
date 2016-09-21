@@ -1,0 +1,19 @@
+@charset "utf-8";
+body	{
+	background:url(../img/fundo.jpg)repeat;
+	background-size: cover;
+	padding-bottom:190px;
+}
+.pisomadeira{ width:100%; height:80px;background:url(../img/pisomadeira.png) no-repeat; background-size: cover; position:absolute; bottom:0; left:0}
+.frutas{ width:100%; height:180px;background:url(../img/frutas.png)repeat-x; position:absolute; bottom:2px; left:0; z-index:100}
+.logo{ margin:0 auto 2em auto; width:30%; }
+
+.auto{ margin:auto;}
+.btn_grupo{ width:55%;  overflow:hidden; min-width:700px;}
+.btn_cozinha,.btn_pedidos{ width:214px; height:214px; display:block;}
+.btn_cozinha{background:url(../img/btn_cozinha.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.1s;}
+	.btn_cozinha:hover{background:url(../img/btn_cozinha_2.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.1s;}
+.btn_pedidos{background:url(../img/btn_pedidos.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.5s;}
+	.btn_pedidos:hover{background:url(../img/btn_pedidos_2.png) no-repeat;    -webkit-transition:  0.1s; /* Safari */    transition:  0.1s;}
+	.bt2{ float:left}
+	.bt1{ float:right}
